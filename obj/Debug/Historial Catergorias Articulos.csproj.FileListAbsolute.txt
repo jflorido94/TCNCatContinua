@@ -1,0 +1,20 @@
+M:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csproj.GenerateResource.cache
+M:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csproj.CoreCompileInputs.cache
+M:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial_Catergorias_Articulos.Form1.resources
+D:\tecinet\Historial Catergorias Articulos\bin\Debug\Historial Catergorias Articulos.exe.config
+D:\tecinet\Historial Catergorias Articulos\bin\Debug\Historial Catergorias Articulos.exe
+D:\tecinet\Historial Catergorias Articulos\bin\Debug\Historial Catergorias Articulos.pdb
+D:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csprojAssemblyReference.cache
+D:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial_Catergorias_Articulos.Form1.resources
+D:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial_Catergorias_Articulos.Properties.Resources.resources
+D:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csproj.GenerateResource.cache
+D:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csproj.CoreCompileInputs.cache
+D:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.exe
+D:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.pdb
+M:\tecinet\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csprojAssemblyReference.cache
+M:\tecinet\Historial Catergorias Articulos\bin\Debug\CatContinua.exe.config
+M:\tecinet\Historial Catergorias Articulos\bin\Debug\CatContinua.exe
+M:\tecinet\Historial Catergorias Articulos\bin\Debug\CatContinua.pdb
+M:\tecinet\Historial Catergorias Articulos\obj\Debug\CatContinua.Properties.Resources.resources
+M:\tecinet\Historial Catergorias Articulos\obj\Debug\CatContinua.exe
+M:\tecinet\Historial Catergorias Articulos\obj\Debug\CatContinua.pdb
