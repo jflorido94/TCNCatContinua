@@ -227,6 +227,7 @@ namespace Historial_Catergorias_Articulos
             // 
             // gbActualizarFam
             // 
+            this.gbActualizarFam.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.gbActualizarFam.Controls.Add(this.btnActualizarFam);
             this.gbActualizarFam.Location = new System.Drawing.Point(837, 9);
             this.gbActualizarFam.Name = "gbActualizarFam";
@@ -251,6 +252,9 @@ namespace Historial_Catergorias_Articulos
             this.dgvFam.AllowUserToAddRows = false;
             this.dgvFam.AllowUserToDeleteRows = false;
             this.dgvFam.AllowUserToOrderColumns = true;
+            this.dgvFam.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvFam.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvFam.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvFam.Location = new System.Drawing.Point(6, 100);
@@ -263,10 +267,12 @@ namespace Historial_Catergorias_Articulos
             // 
             this.tcPrincipal.Controls.Add(this.tpCate);
             this.tcPrincipal.Controls.Add(this.tpGTerap);
-            this.tcPrincipal.Location = new System.Drawing.Point(12, 12);
+            this.tcPrincipal.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tcPrincipal.Location = new System.Drawing.Point(0, 0);
+            this.tcPrincipal.MinimumSize = new System.Drawing.Size(990, 540);
             this.tcPrincipal.Name = "tcPrincipal";
             this.tcPrincipal.SelectedIndex = 0;
-            this.tcPrincipal.Size = new System.Drawing.Size(990, 540);
+            this.tcPrincipal.Size = new System.Drawing.Size(1013, 564);
             this.tcPrincipal.TabIndex = 0;
             // 
             // tpCate
@@ -277,7 +283,7 @@ namespace Historial_Catergorias_Articulos
             this.tpCate.Location = new System.Drawing.Point(4, 22);
             this.tpCate.Name = "tpCate";
             this.tpCate.Padding = new System.Windows.Forms.Padding(3);
-            this.tpCate.Size = new System.Drawing.Size(982, 514);
+            this.tpCate.Size = new System.Drawing.Size(1005, 538);
             this.tpCate.TabIndex = 0;
             this.tpCate.Text = "Familias";
             this.tpCate.UseVisualStyleBackColor = true;
@@ -290,7 +296,7 @@ namespace Historial_Catergorias_Articulos
             this.tpGTerap.Location = new System.Drawing.Point(4, 22);
             this.tpGTerap.Name = "tpGTerap";
             this.tpGTerap.Padding = new System.Windows.Forms.Padding(3);
-            this.tpGTerap.Size = new System.Drawing.Size(982, 514);
+            this.tpGTerap.Size = new System.Drawing.Size(1005, 538);
             this.tpGTerap.TabIndex = 1;
             this.tpGTerap.Text = "GT - Familias";
             this.tpGTerap.UseVisualStyleBackColor = true;
@@ -300,6 +306,9 @@ namespace Historial_Catergorias_Articulos
             this.dgvGT.AllowUserToAddRows = false;
             this.dgvGT.AllowUserToDeleteRows = false;
             this.dgvGT.AllowUserToOrderColumns = true;
+            this.dgvGT.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvGT.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvGT.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvGT.Location = new System.Drawing.Point(6, 100);
@@ -310,6 +319,7 @@ namespace Historial_Catergorias_Articulos
             // 
             // gbActualizarGT
             // 
+            this.gbActualizarGT.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.gbActualizarGT.Controls.Add(this.btActualizarGT);
             this.gbActualizarGT.Location = new System.Drawing.Point(837, 9);
             this.gbActualizarGT.Name = "gbActualizarGT";
@@ -476,11 +486,13 @@ namespace Historial_Catergorias_Articulos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(1013, 564);
             this.Controls.Add(this.tcPrincipal);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "CatContinua";
+            this.Text = "Historial Articulos y GT";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.gbFiltradoFam.ResumeLayout(false);
             this.gbFiltradoFam.PerformLayout();

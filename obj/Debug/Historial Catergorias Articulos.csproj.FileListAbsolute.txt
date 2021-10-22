@@ -18,3 +18,13 @@ M:\tecinet\Historial Catergorias Articulos\bin\Debug\CatContinua.pdb
 M:\tecinet\Historial Catergorias Articulos\obj\Debug\CatContinua.Properties.Resources.resources
 M:\tecinet\Historial Catergorias Articulos\obj\Debug\CatContinua.exe
 M:\tecinet\Historial Catergorias Articulos\obj\Debug\CatContinua.pdb
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\bin\Debug\Historial Articulos y GT.exe.config
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\bin\Debug\Historial Articulos y GT.exe
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\bin\Debug\Historial Articulos y GT.pdb
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csprojAssemblyReference.cache
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Debug\Historial_Catergorias_Articulos.Form1.resources
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Debug\CatContinua.Properties.Resources.resources
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csproj.GenerateResource.cache
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Debug\Historial Catergorias Articulos.csproj.CoreCompileInputs.cache
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Debug\Historial Articulos y GT.exe
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Debug\Historial Articulos y GT.pdb

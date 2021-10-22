@@ -1,0 +1,10 @@
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Release\Historial Catergorias Articulos.csprojAssemblyReference.cache
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Release\Historial_Catergorias_Articulos.Form1.resources
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Release\CatContinua.Properties.Resources.resources
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Release\Historial Catergorias Articulos.csproj.GenerateResource.cache
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Release\Historial Catergorias Articulos.csproj.CoreCompileInputs.cache
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\bin\Release\Historial Articulos y GT.exe.config
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\bin\Release\Historial Articulos y GT.exe
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\bin\Release\Historial Articulos y GT.pdb
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Release\Historial Articulos y GT.exe
+D:\Users\hbran\Desktop\PROYECTOS\TRABAJO\TECINET\Historial Catergorias Articulos\obj\Release\Historial Articulos y GT.pdb
